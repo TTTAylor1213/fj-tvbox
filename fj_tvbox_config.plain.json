@@ -8,155 +8,185 @@
       "name": "量子",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9jai5semlhcGkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Qv"
+      "ext": "aHR0cHM6Ly9jai5semlhcGkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Qv",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj01",
       "name": "非凡",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cDovL2NqLmZmenlhcGkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Qv"
+      "ext": "aHR0cDovL2NqLmZmenlhcGkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Qv",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj02",
       "name": "暴风",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9iZnp5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw=="
+      "ext": "aHR0cHM6Ly9iZnp5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw==",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj03",
       "name": "最大",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cDovL2FwaS56dWlkYXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw=="
+      "ext": "aHR0cDovL2FwaS56dWlkYXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw==",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj04",
       "name": "极速",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9qc3p5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw=="
+      "ext": "aHR0cHM6Ly9qc3p5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw==",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj05",
       "name": "光速",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9hcGkuZ3VhbmdzdWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8="
+      "ext": "aHR0cHM6Ly9hcGkuZ3VhbmdzdWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8=",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj06",
       "name": "索尼",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9zdW9uaWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8="
+      "ext": "aHR0cHM6Ly9zdW9uaWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8=",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj07",
       "name": "红牛",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly93d3cuaG9uZ25pdXp5Mi5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8="
+      "ext": "aHR0cHM6Ly93d3cuaG9uZ25pdXp5Mi5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8=",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj08",
       "name": "天涯",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly90eXlzenkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Qv"
+      "ext": "aHR0cHM6Ly90eXlzenkuY29tL2FwaS5waHAvcHJvdmlkZS92b2Qv",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj09",
       "name": "无尽",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9hcGkud3VqaW5hcGkubWUvYXBpLnBocC9wcm92aWRlL3ZvZC8="
+      "ext": "aHR0cHM6Ly9hcGkud3VqaW5hcGkubWUvYXBpLnBocC9wcm92aWRlL3ZvZC8=",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj10",
       "name": "魔都",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly93d3cubWR6eWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8="
+      "ext": "aHR0cHM6Ly93d3cubWR6eWFwaS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8=",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj11",
       "name": "闪电",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9zZHp5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw=="
+      "ext": "aHR0cHM6Ly9zZHp5YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw==",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj12",
       "name": "如意",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9jai5yeWNqYXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw=="
+      "ext": "aHR0cHM6Ly9jai5yeWNqYXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw==",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj13",
       "name": "百度",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9hcGkuYXBpYmR6eS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8="
+      "ext": "aHR0cHM6Ly9hcGkuYXBpYmR6eS5jb20vYXBpLnBocC9wcm92aWRlL3ZvZC8=",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     },
     {
       "key": "fj14",
       "name": "优酷",
       "type": 3,
       "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9hcGkudWt1YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw=="
+      "ext": "aHR0cHM6Ly9hcGkudWt1YXBpLmNvbS9hcGkucGhwL3Byb3ZpZGUvdm9kLw==",
+      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
     }
   ],
   "parses": [
     {
-      "name": "解析",
+      "name": "演示",
       "type": 3,
       "url": "Demo"
     }
