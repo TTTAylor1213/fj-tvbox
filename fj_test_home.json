@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "nextlink": "9001",
+      "title": "FJTEST-HIT",
+      "pic": "https://picsum.photos/600/900",
+      "state": "HIT"
+    },
+    {
+      "nextlink": "9002",
+      "title": "FJTEST-2",
+      "pic": "https://picsum.photos/601/900",
+      "state": "HIT"
+    }
+  ]
+}
