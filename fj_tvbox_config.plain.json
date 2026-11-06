@@ -4,169 +4,154 @@
   "logo": "",
   "sites": [
     {
-      "key": "fj00",
-      "name": "量子",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cj.lziapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
-    },
-    {
       "key": "fj01",
       "name": "非凡",
       "type": 3,
-      "api": "csp_HBcms10",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
-    },
-    {
-      "key": "fj02",
-      "name": "暴风",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bfzyapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
-    },
-    {
-      "key": "fj03",
-      "name": "最大",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.zuidapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
-    },
-    {
-      "key": "fj04",
-      "name": "极速",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jszyapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
-    },
-    {
-      "key": "fj05",
-      "name": "光速",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
-    },
-    {
-      "key": "fj06",
-      "name": "索尼",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://suoniapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
-    },
-    {
-      "key": "fj07",
-      "name": "红牛",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
-    },
-    {
-      "key": "fj08",
-      "name": "天涯",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tyyszy.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
-    },
-    {
-      "key": "fj09",
-      "name": "无尽",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api.wujinapi.me/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
+      "ext": "YUhSMGNEb3ZMMk5xTG1abWVubGhjR2t1WTI5dEwyRndhUzV3YUhBdmNISnZkbWxrWlM5MmIyUXY="
     },
     {
       "key": "fj10",
       "name": "魔都",
       "type": 3,
-      "api": "csp_HBcms10",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
+      "ext": "YUhSMGNITTZMeTkzZDNjdWJXUjZlV0Z3YVM1amIyMHZZWEJwTG5Cb2NDOXdjbTkyYVdSbEwzWnZaQzg9"
+    },
+    {
+      "key": "fj02",
+      "name": "暴风",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "YUhSMGNITTZMeTlpWm5wNVlYQnBMbU52YlM5aGNHa3VjR2h3TDNCeWIzWnBaR1V2ZG05a0x3PT0="
+    },
+    {
+      "key": "fj03",
+      "name": "最大",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "YUhSMGNEb3ZMMkZ3YVM1NmRXbGtZWEJwTG1OdmJTOWhjR2t1Y0dod0wzQnliM1pwWkdVdmRtOWtMdz09"
+    },
+    {
+      "key": "fj04",
+      "name": "极速",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "YUhSMGNITTZMeTlxYzNwNVlYQnBMbU52YlM5aGNHa3VjR2h3TDNCeWIzWnBaR1V2ZG05a0x3PT0="
+    },
+    {
+      "key": "fj05",
+      "name": "光速",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "YUhSMGNITTZMeTloY0drdVozVmhibWR6ZFdGd2FTNWpiMjB2WVhCcExuQm9jQzl3Y205MmFXUmxMM1p2WkM4PQ=="
+    },
+    {
+      "key": "fj07",
+      "name": "红牛",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "YUhSMGNITTZMeTkzZDNjdWFHOXVaMjVwZFhwNU1pNWpiMjB2WVhCcExuQm9jQzl3Y205MmFXUmxMM1p2WkM4PQ=="
+    },
+    {
+      "key": "fj08",
+      "name": "天涯",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "YUhSMGNITTZMeTkwZVhsemVua3VZMjl0TDJGd2FTNXdhSEF2Y0hKdmRtbGtaUzkyYjJRdg=="
+    },
+    {
+      "key": "fj09",
+      "name": "无尽",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "YUhSMGNITTZMeTloY0drdWQzVnFhVzVoY0drdWJXVXZZWEJwTG5Cb2NDOXdjbTkyYVdSbEwzWnZaQzg9"
     },
     {
       "key": "fj11",
       "name": "闪电",
       "type": 3,
-      "api": "csp_HBcms10",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://sdzyapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
+      "ext": "YUhSMGNITTZMeTl6WkhwNVlYQnBMbU52YlM5aGNHa3VjR2h3TDNCeWIzWnBaR1V2ZG05a0x3PT0="
     },
     {
       "key": "fj12",
       "name": "如意",
       "type": 3,
-      "api": "csp_HBcms10",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cj.rycjapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
+      "ext": "YUhSMGNITTZMeTlqYWk1eWVXTnFZWEJwTG1OdmJTOWhjR2t1Y0dod0wzQnliM1pwWkdVdmRtOWtMdz09"
+    },
+    {
+      "key": "fj06",
+      "name": "索尼",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "YUhSMGNITTZMeTl6ZFc5dWFXRndhUzVqYjIwdllYQnBMbkJvY0M5d2NtOTJhV1JsTDNadlpDOD0="
     },
     {
       "key": "fj13",
       "name": "百度",
       "type": 3,
-      "api": "csp_HBcms10",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://api.apibdzy.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
+      "ext": "YUhSMGNITTZMeTloY0drdVlYQnBZbVI2ZVM1amIyMHZZWEJwTG5Cb2NDOXdjbTkyYVdSbEwzWnZaQzg9"
     },
     {
       "key": "fj14",
       "name": "优酷",
       "type": 3,
-      "api": "csp_HBcms10",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://api.ukuapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/TTTAylor1213/fj-tvbox/main/custom_spider.jar"
+      "ext": "YUhSMGNITTZMeTloY0drdWRXdDFZWEJwTG1OdmJTOWhjR2t1Y0dod0wzQnliM1pwWkdVdmRtOWtMdz09"
+    },
+    {
+      "key": "fj00",
+      "name": "量子",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "YUhSMGNITTZMeTlqYWk1c2VtbGhjR2t1WTI5dEwyRndhUzV3YUhBdmNISnZkbWxrWlM5MmIyUXY="
     }
   ],
   "parses": [
